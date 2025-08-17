@@ -3,9 +3,9 @@
     "HWID-8A66CD5666": {
       "user": "john_doe",
       "license_key": "ABC123-XYZ456",
-      "expiry_date": "2024-12-31",  // Lisansın bitiş tarihi
+      "expiry_date": "2026-12-31",  // Lisansın bitiş tarihi
       "status": "active",            // Lisansın geçerliliği (admin değiştirir)
-      "creation_date": "2024-01-01", // Lisansın oluşturulma tarihi
+      "creation_date": "2025-01-01", // Lisansın oluşturulma tarihi
       "license_type": "personal"    // Lisans tipi (personal/commercial)
     },
     "HWID-XYZ789": {
