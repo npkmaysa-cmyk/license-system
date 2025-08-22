@@ -12,7 +12,7 @@
       "user": "cg",
       "license_key": "123",
       "expiry_date": "2026-06-15",
-      "status": "expired",           // Durum, admin tarafından güncellenebilir
+      "status": "active",           // Durum, admin tarafından güncellenebilir
       "creation_date": "2023-12-01", // Lisansın oluşturulma tarihi
       "license_type": "trial"    // Lisans tipi
     }
