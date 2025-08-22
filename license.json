@@ -1,20 +1,28 @@
 {
   "licenses": {
     "HWID-J97F79346CEKDHJMM": {
-      "user": "cg",
-      "license_key": "deneme.3",
-      "expiry_date": "2026-12-31",  // Lisansın bitiş tarihi
-      "status": "active",            // Lisansın geçerliliği (admin değiştirir)
-      "creation_date": "2025-01-01", // Lisansın oluşturulma tarihi
-      "license_type": "trial"    // Lisans tipi (personal/commercial)
+      "user": "denemeee",
+      "license_key": "denem3",
+      "expiry_date": "2026-12-31",
+      "status": "active",
+      "creation_date": "2025-01-01",
+      "license_type": "personal"
     },
     "HWID-XYZ789": {
       "user": "cg",
       "license_key": "123",
-      "expiry_date": "2026-06-15",
-      "status": "active",           // Durum, admin tarafından güncellenebilir
-      "creation_date": "2023-12-01", // Lisansın oluşturulma tarihi
-      "license_type": "trial"    // Lisans tipi
+      "expiry_date": "19-55",
+      "status": "active",
+      "creation_date": "2023-12-01",
+      "license_type": "maysa"
+    },
+    "HWID-NEW123456": {
+      "user": "cheatglobal",
+      "license_key": "denemekey",
+      "expiry_date": "2025-09-30",
+      "status": "active",
+      "creation_date": "2025-08-22",
+      "license_type": "trial"
     }
   }
 }
