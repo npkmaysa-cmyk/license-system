@@ -1,12 +1,12 @@
 {
   "licenses": {
     "HWID-J97F79346CEKDHJMM": {
-      "user": "sa",
+      "user": "cg",
       "license_key": "deneme.3",
       "expiry_date": "2026-12-31",  // Lisansın bitiş tarihi
       "status": "active",            // Lisansın geçerliliği (admin değiştirir)
       "creation_date": "2025-01-01", // Lisansın oluşturulma tarihi
-      "license_type": "personal"    // Lisans tipi (personal/commercial)
+      "license_type": "trial"    // Lisans tipi (personal/commercial)
     },
     "HWID-XYZ789": {
       "user": "cg",
